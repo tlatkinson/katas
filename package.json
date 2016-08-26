@@ -1,5 +1,5 @@
 {
-  "name": "katas",
+  "name": "katas-tatkinson",
   "version": "0.0.1",
   "description": "Service providing katas that can be loaded into tddbin.com.",
   "main": "index.js",
