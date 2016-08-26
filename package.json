@@ -10,14 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tddbin/katas.git"
+    "url": "https://github.com/tlatkinson/katas.git"
   },
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tddbin/katas/issues"
-  },
-  "homepage": "https://github.com/tddbin/katas",
+  "homepage": "https://github.com/tlatkinson/katas",
   "devDependencies": {
     "babel": "^5.4.7",
     "mocha": "^2.2.5",
